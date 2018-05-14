@@ -1,0 +1,10 @@
+[{"name":"wood1","x":700.5,"y":71,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":700.5,"y":171,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":700.5,"y":234,"type":"static","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":877.5,"y":71,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":1065.5,"y":71,"type":"static","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":1065.5,"y":171,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"enemy1","x":791.5,"y":71,"type":"dynamic","shape":"circle","density":2,"userData":{"isDead":false,"isContacted":false}},
+{"name":"enemy","x":970,"y":71,"type":"dynamic","shape":"circle","density":2,"userData":{"isDead":false,"isContacted":false}}
+
+]

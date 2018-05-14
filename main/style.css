@@ -1,0 +1,12 @@
+* {
+                margin:0;
+                padding:0;
+   }
+   #canvas {
+    
+    width: 1300px;
+    height: 600px;
+    border: 2px dashed black;
+    z-index:1;
+    
+}

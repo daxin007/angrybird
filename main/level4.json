@@ -1,0 +1,13 @@
+[{"name":"wood1","x":820.5,"y":71,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":997.5,"y":71,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood2","x":911.5,"y":131.5,"scaleX":1.3,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood2","x":911.5,"y":251.5,"scaleX":1.3,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood2","x":860,"y":330,"rotation":-40,"scaleX":0.8,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood2","x":960,"y":330,"rotation":40,"scaleX":0.8,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":820.5,"y":200.5,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":997.5,"y":200.5,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":910,"y":300,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"enemy1","x":911.5,"y":71,"type":"dynamic","shape":"circle","density":2,"userData":{"isDead":false,"isContacted":false}},
+{"name":"enemy","x":911.5,"y":180,"type":"dynamic","shape":"circle","density":2,"userData":{"isDead":false,"isContacted":false}}
+]
+   

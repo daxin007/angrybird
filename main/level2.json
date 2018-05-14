@@ -1,0 +1,7 @@
+[{"name":"wood1","x":740.5,"y":71,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":740.5,"y":171,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":917.5,"y":71,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood1","x":917.5,"y":171,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"enemy1","x":831.5,"y":71,"type":"dynamic","shape":"circle","density":2,"userData":{"isDead":false,"isContacted":false}}
+
+]

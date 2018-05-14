@@ -1,0 +1,7 @@
+[
+{"name":"wood1","x":917.5,"y":71,"type":"static","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+{"name":"wood2","x":760,"y":120,"rotation":-90,"scaleX":0.8,"type":"dynamic","shape":"box","userData":"new BodyUserData(GameObjectRoll.Wood, 2000)"},
+
+{"name":"enemy","x":831.5,"y":71,"type":"dynamic","shape":"circle","density":2,"userData":{"isDead":false,"isContacted":false}}
+
+]
